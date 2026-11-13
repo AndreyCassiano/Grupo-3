@@ -1,3 +1,3 @@
 # Grupo-3
 
-Era uma vez uma canguru chamada Sally...
+Era uma vez uma canguru chamada Sally, uma cientista genial que transformou sua própria bolsa em um laboratório portátil cheio de tubos borbulhantes. Numa madrugada regada a café, tentando inventar um energético para saltar mais alto, ela misturou os ingredientes errados e criou sem querer uma poção que fazia qualquer coisa começar a falar. O problema só apareceu quando ela espirrou perto do experimento e a própria xícara de café entortou a voz e gritou: "Finalmente, alguém me escuta!"
