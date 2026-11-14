@@ -1,3 +1,5 @@
 # Grupo-3
 
 Era uma vez uma canguru chamada Sally, uma cientista genial que transformou sua própria bolsa em um laboratório portátil cheio de tubos borbulhantes. Numa madrugada regada a café, tentando inventar um energético para saltar mais alto, ela misturou os ingredientes errados e criou sem querer uma poção que fazia qualquer coisa começar a falar. O problema só apareceu quando ela espirrou perto do experimento e a própria xícara de café entortou a voz e gritou: "Finalmente, alguém me escuta!"
+
+Antes que Sally pudesse comemorar, percebeu que havia deixado a janela aberta: um fio de vapor da poção escapara durante a noite e, lá fora, o mundo já não era mais silencioso. O poste da esquina cumprimentava os pedestres, as placas de trânsito discutiam entre si sobre quem tinha a prioridade, e um pombo mal-educado começou a cobrar aluguel das estátuas da praça. Sally engoliu em seco: o que começou na sua bolsa agora era problema da cidade inteira.
